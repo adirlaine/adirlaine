@@ -1,7 +1,9 @@
+# Sobre mim
 - 👋 Hi, I’m @adirlaine
-- 👀 I’m interested in aprender programação.
+- 👀 I’m interested in aprender novas linguagem deprogramação.
 - 🌱 I’m currently learning  Como personalizar o Github.
-- 💞️ I’m looking to collaborate on comos meus alunos do 1º ano.
+- Eu estou apredendo a programar recentemente a linguagem de java scripe e scratch
+- 💞️ I’m looking to collaborate com meus alunos do 1º ano.
 - 📫 How to reach me  no curso pensamento computacional.
 
 <!---
